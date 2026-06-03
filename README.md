@@ -1,19 +1,12 @@
 # Personal Portfolio Website
-
-This is a personal portfolio website built with Astro.
+- Built using astro.
 
 ## Project Setup
-
-1.  **General dependencies**:
-
-    ```bash
-    nix develop
-    ```
 
 2.  **Install dependencies**:
 
     ```bash
-    bun install
+    sudo pacman -Syu bun
     ```
 
 3.  **Run the development server**:
@@ -26,6 +19,8 @@ This is a personal portfolio website built with Astro.
     ```bash
     bun run build
     ```
+
+
 
 ## 📝 License
 
